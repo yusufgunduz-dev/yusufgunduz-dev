@@ -77,6 +77,20 @@ Google Play ve App Store için geliştirdiğim uygulamalar:
 | **WebScraper Premium** | Veri toplama için Python masaüstü uygulaması. |
 | **YouTube ve Etsy araçları** | İçerik ve mağaza süreçleri için otomasyon betikleri. |
 
+## 🔓 Açık Kaynak Projeler
+
+MIT lisanslı, Türkçe ve İngilizce belgeli, CI ile test edilen projelerim:
+
+| Proje | Ne yapar | Teknoloji |
+|---|---|---|
+| [**diyabet-risk-ai**](https://github.com/yusufgunduz-dev/diyabet-risk-ai) | CDC BRFSS ve NHANES verisiyle diyabet riski tahmini: 8 model, SHAP açıklamaları, FastAPI ve tarayıcıda çalışan sürüm. [Canlı demo](https://diyabet-risk-analizi.netlify.app) | Python, scikit-learn, XGBoost, SHAP |
+| [**convert-chrome-extension**](https://github.com/yusufgunduz-dev/convert-chrome-extension) | PDF, Word, Excel, resim ve HEIC dosyalarını OCR ile tarayıcıda, cihazdan çıkarmadan dönüştüren Chrome eklentisi | TypeScript, React, Manifest V3 |
+| [**ai-quiz-app**](https://github.com/yusufgunduz-dev/ai-quiz-app) | LGS, YKS ve KPSS için Gemini destekli soru üreten mobil quiz uygulaması | React Native, Expo, Firebase |
+| [**google-maps-scraper**](https://github.com/yusufgunduz-dev/google-maps-scraper) | Google Haritalar işletme kayıtlarını Excel'e aktaran masaüstü araç | Python, Selenium |
+| [**auto-subtitle-generator**](https://github.com/yusufgunduz-dev/auto-subtitle-generator) | Whisper ile Türkçe altyazı üretip videoya gömer | Python, Whisper, FFmpeg |
+| [**Video-Compressor**](https://github.com/yusufgunduz-dev/Video-Compressor-Reduce-Video-File-Size-) | Kaliteyi koruyarak video sıkıştırma ve kesme | Python, FFmpeg |
+| [**World's Hardest Game**](https://github.com/yusufgunduz-dev/World-s-Hardest-Game) | Sıfırdan yazılmış canvas oyun motoruyla 10 bölümlü web oyunu | React, TypeScript |
+
 ## 🛠️ Teknolojiler
 
 <div align="center">
