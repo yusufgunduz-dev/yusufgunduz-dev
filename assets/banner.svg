@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img" aria-label="Yusuf Gündüz">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#1b1750"/></linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.25" r="0.6"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.45"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/></pattern>
+    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/></linearGradient>
+  </defs>
+  <rect width="1280" height="380" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="380" rx="22" fill="url(#grid)"/>
+  <rect width="1280" height="380" rx="22" fill="url(#glow)"/>
+  <rect x="64" y="76" width="72" height="6" rx="3" fill="url(#bar)"/>
+  <text x="64" y="110" font-size="18" font-weight="700" letter-spacing="3" fill="#38bdf8">YAZILIM GELİŞTİRİCİ  ·  DİJİTAL ÜRÜN GİRİŞİMCİSİ</text>
+  <text x="64" y="194" font-size="76" font-weight="800" fill="#ffffff">Yusuf Gündüz</text>
+  <text x="64" y="234" font-size="26" fill="#cbd5e1">Mobil, web, masaüstü, oyun ve yapay zeka ürünleri — fikirden canlıya.</text>
+  <g transform="translate(64 294)"><rect width="85" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#38bdf8" stroke-opacity="0.55"/><text x="42.5" y="25" text-anchor="middle" font-size="17" font-weight="600" fill="#e8eefc">Mobil</text></g><g transform="translate(161 294)"><rect width="64.6" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#38bdf8" stroke-opacity="0.55"/><text x="32.3" y="25" text-anchor="middle" font-size="17" font-weight="600" fill="#e8eefc">Web</text></g><g transform="translate(237.6 294)"><rect width="136" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#38bdf8" stroke-opacity="0.55"/><text x="68" y="25" text-anchor="middle" font-size="17" font-weight="600" fill="#e8eefc">Yapay Zeka</text></g><g transform="translate(385.6 294)"><rect width="74.8" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#38bdf8" stroke-opacity="0.55"/><text x="37.4" y="25" text-anchor="middle" font-size="17" font-weight="600" fill="#e8eefc">Oyun</text></g><g transform="translate(472.40000000000003 294)"><rect width="74.8" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#38bdf8" stroke-opacity="0.55"/><text x="37.4" y="25" text-anchor="middle" font-size="17" font-weight="600" fill="#e8eefc">SaaS</text></g>
+  <g>
+  <rect x="886" y="95" width="330" height="190" rx="16" fill="#0b1020" fill-opacity="0.85" stroke="#ffffff" stroke-opacity="0.12"/>
+  <circle cx="910" cy="119" r="6" fill="#ff5f57"/><circle cx="930" cy="119" r="6" fill="#febc2e"/><circle cx="950" cy="119" r="6" fill="#28c840"/>
+  <line x1="886" y1="139" x2="1216" y2="139" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="916" y="157" width="120" height="10" rx="5" fill="#38bdf8" fill-opacity="0.85" transform="translate(0 0)"/><rect x="916" y="183" width="200" height="10" rx="5" fill="#7dd3fc" fill-opacity="0.7" transform="translate(24 0)"/><rect x="916" y="209" width="160" height="10" rx="5" fill="#c4b5fd" fill-opacity="0.7" transform="translate(24 0)"/><rect x="916" y="235" width="90" height="10" rx="5" fill="#86efac" fill-opacity="0.7" transform="translate(48 0)"/><rect x="916" y="261" width="180" height="10" rx="5" fill="#38bdf8" fill-opacity="0.7" transform="translate(24 0)"/><rect x="916" y="287" width="70" height="10" rx="5" fill="#fcd34d" fill-opacity="0.7" transform="translate(0 0)"/><rect x="916" y="313" width="140" height="10" rx="5" fill="#7dd3fc" fill-opacity="0.6" transform="translate(24 0)"/>
+</g>
+</svg>
