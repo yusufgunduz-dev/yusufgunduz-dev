@@ -7,6 +7,7 @@
 [![Revolasoft](https://img.shields.io/badge/Revolasoft-revolasoft.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://revolasoft.com)
 [![E-posta](https://img.shields.io/badge/E--posta-gunduzy718%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunduzy718@gmail.com)
 [![Google Play](https://img.shields.io/badge/Google_Play-4_uygulama_yay%C4%B1nda-34a853?style=for-the-badge&logo=googleplay&logoColor=white)](#-mobil-uygulamalar)
+[![App Store](https://img.shields.io/badge/App_Store-3_uygulama_yay%C4%B1nda-0d96f6?style=for-the-badge&logo=appstore&logoColor=white)](#-mobil-uygulamalar)
 
 </div>
 
@@ -18,21 +19,26 @@ Ben **Yusuf Gündüz**, [Revolasoft](https://revolasoft.com) kurucusu ve yazıl�
 
 | 📱 Mobil | 🌐 Web | 🖥️ Masaüstü | 🎮 Oyun | 🤖 Yapay Zeka |
 |:---:|:---:|:---:|:---:|:---:|
-| **7** uygulama<br/>4'ü Google Play'de | **8** canlı platform | CRM ve iş sistemleri | Web, Unity, Roblox | Whisper, Gemini |
+| **10** uygulama<br/>Android ve iOS | **8** canlı platform | CRM ve iş sistemleri | Web, Unity, Roblox | Whisper, Gemini |
 
 </div>
 
 ## 📱 Mobil Uygulamalar
 
-| Uygulama | Ne yapar | Durum |
-|---|---|---|
-| **Dizipas** | Dizi ve film izleme uygulaması | ✅ Google Play'de yayında |
-| **Astrya** | Kahve falı ve tarot uygulaması | ✅ Google Play'de yayında |
-| **Asi Yemek** | Samandağ'a özel yemek sipariş uygulaması (React Native, Expo, Supabase) | ✅ Google Play'de yayında |
-| **AI Quiz** | LGS, YKS ve KPSS için yapay zeka destekli soru çözüm uygulaması | ✅ Google Play'de yayında |
-| **Hava Pusulası** | Hava durumu uygulaması | 🧪 Kapalı testte |
-| **Süper Futbol Düellosu** | Mobil futbol oyunu | 🧪 Kapalı testte |
-| **Star Invest Real Estate** | Gayrimenkul uygulaması | 🧪 Kapalı testte |
+Google Play ve App Store için geliştirdiğim uygulamalar:
+
+| Uygulama | Ne yapar | Android | iOS |
+|---|---|:---:|:---:|
+| **Asi Yemek** | Samandağ'a özel yemek sipariş uygulaması (React Native, Expo, Supabase) | ✅ Yayında | ✅ Yayında |
+| **Star Invest Real Estate** | Gayrimenkul uygulaması | 🧪 Kapalı test | ✅ Yayında |
+| **Enzo Kozmetik** | Kozmetik markası uygulaması | — | ✅ Yayında |
+| **Dizipas** | Dizi ve film izleme ve takip uygulaması | ✅ Yayında | ⏳ İncelemede |
+| **Astrya** | Kahve falı ve tarot uygulaması | ✅ Yayında | — |
+| **AI Quiz** | LGS, YKS ve KPSS için yapay zeka destekli soru çözüm uygulaması | ✅ Yayında | — |
+| **Süper Futbol Düellosu** | Mobil futbol oyunu | 🧪 Kapalı test | ⏳ İncelemede |
+| **Hava Pusulası** | Hava durumu uygulaması | 🧪 Kapalı test | 🛠️ Yayına hazırlanıyor |
+| **Gündüz Emlak** | Emlak uygulaması | — | 🛠️ Yayına hazırlanıyor |
+| **Sanal Kabin** | Yapay zeka ile kıyafet deneme uygulaması | — | 🛠️ Yayın sürecinde |
 
 ## 🌐 Canlı Web Platformları
 
