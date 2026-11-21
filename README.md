@@ -36,7 +36,7 @@ Google Play ve App Store için geliştirdiğim uygulamalar:
 | **Astrya** | Kahve falı ve tarot uygulaması | ✅ Yayında | — |
 | **AI Quiz** | LGS, YKS ve KPSS için yapay zeka destekli soru çözüm uygulaması | ✅ Yayında | — |
 | **Süper Futbol Düellosu** | Mobil futbol oyunu | 🧪 Kapalı test | ⏳ İncelemede |
-| **Hava Pusulası** | Hava durumu uygulaması | 🧪 Kapalı test | 🛠️ Yayına hazırlanıyor |
+| **Hava Pusulası** | Hava durumu uygulaması | ✅ Yayında | ✅ Yayında |
 | **Gündüz Emlak** | Emlak uygulaması | — | 🛠️ Yayına hazırlanıyor |
 | **Sanal Kabin** | Yapay zeka ile kıyafet deneme uygulaması | — | 🛠️ Yayın sürecinde |
 
